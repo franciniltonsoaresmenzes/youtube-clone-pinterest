@@ -157,13 +157,13 @@ header nav .buttons button.signup {
 }
 
 .animate-before {
-  transform: translateY(50px);
+  transform: translateY(40px);
   opacity: 0;
   pointer-events: none;
 }
 
 .animate-after {
-  transform: translateY(-50px);
+  transform: translateY(-40px);
   opacity: 0;
   pointer-events: none;
 }
